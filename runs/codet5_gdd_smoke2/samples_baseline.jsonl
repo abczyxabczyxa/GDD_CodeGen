@@ -1,0 +1,6 @@
+{"task_id": "HumanEval/0", "completion": "contains a number withthreshold=0.3)(. join ( [2.8 , 4.0(] ) ) return1.0 \"\"\""}
+{"task_id": "HumanEval/0", "completion": "values ofof givennumber2.8, 3.0, 4.0, 5.0, 2.8,3.0, 4.0, 5.0, 2.0], 0.3)\nhas_close_elements([1.0,2.0,2.0, 2.8, 3.0, 4.0, 5.0, 2.0,2."}
+{"task_id": "HumanEval/0", "completion": "ifin.)True\n   TrueFalseTrue\"\"\"True,,5.02.0, 4.0,2.8, 3.0,)Trueif, 3.0),\".\" ) ,:,, 2.0) , 0.2 )"}
+{"task_id": "HumanEval/1", "completion": "ainofto the outputgroup into separatelist ofthe: if:(::) ::: if len () ::( ) :) ](return [ ]())() :"}
+{"task_id": "HumanEval/1", "completion": "list of strings inofin the input string.paren_stringgroup ofis notparen_string [ 0 ])[ ][ '())' ]Noneif '['[ ]: #] ) : iflen: list_of_list: list_of_list :] :] ]. append ( ')''' ) for j: if j in"}
+{"task_id": "HumanEval/1", "completion": "=) \"\"\"'(. append() :. split ( '(' )) return)split(). append) )split () return splitsplit (in) ) ]]"}

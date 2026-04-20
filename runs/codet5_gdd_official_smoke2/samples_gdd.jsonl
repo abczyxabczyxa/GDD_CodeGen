@@ -1,0 +1,4 @@
+{"task_id": "HumanEval/0", "completion": "number> threshold(: return)\" \"None \"\"\"if threshold( )number is:="}
+{"task_id": "HumanEval/0", "completion": "num_close =False0.52.0,3.0, 4.0, 5.0,False0.0, 2.0,7.0,True10.0, 4.0, 5.0,1.0, 2.0, 4.0, 5.0,3.0, 5.0, 2.0, 8.0,"}
+{"task_id": "HumanEval/1", "completion": "```` \"\"\" \"\"\"from these(paren_string) -> List[str]:in[ \" \" ]#: list=split () for line insplit (( )split ( ),;split ( )#line )if line . startswith (: split = split=split () :split). split ("}
+{"task_id": "HumanEval/1", "completion": "a stringto besequence.thetotheirthe input string.## #('':split ( ')] ) ) \"\"\", )( ), ) : \"\"\" \"\"\"[ ] if len::] .: \"\"\" \"\"\"]) )[ 0 ]"}

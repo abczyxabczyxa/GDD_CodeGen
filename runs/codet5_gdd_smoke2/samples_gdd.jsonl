@@ -1,0 +1,6 @@
+{"task_id": "HumanEval/0", "completion": "(2.03.0, 2.8, 3.0, 4.0, 5.0,3.0, 2.0, 3.0, 4.0, 5.0,2.0,TrueTrue5.0, 2.0)2.0, 5.0, 2.0,1.0, 2.8, 3.0,2."}
+{"task_id": "HumanEval/0", "completion": ": for.() :[if not( ) :if0 ] ==[ 2 ]0.5, 1.0 ,2.0, 3.0 , 4.02.02.0, 5.0, 2.0,2.0, 3.0, 4.0,2.8, 5.0,5.0"}
+{"task_id": "HumanEval/0", "completion": ": return> thresholdreturn TrueTrueNone# noqa # noqa #is a: # pylint: disable=unused-argument,..ifNoneif threshold > 0 :: return False"}
+{"task_id": "HumanEval/1", "completion": ":if: indentindent..indent[ indent( indent ) : indentindent + 1 ]( indent - 1 )indentindent += 2indent += 2indent += 1indentindent += 1indent += 1indent += indentindent += indentindentindent += indentindent += indentindent += indentindentindent += indent return"}
+{"task_id": "HumanEval/1", "completion": "str :: str =split (. split (. append () ) return:: return\" \":: str: str ): strsplit ( )''( ) : str ,,: strsplit (,"}
+{"task_id": "HumanEval/1", "completion": "\"\"\":[ '(' , ')'[ '(' , ')', ')' ]\"\"\" \"\"\"( '(' , ')' )) : \"\"\" \"\"\": \"\"\" \"\"\")'()' , '()' ]] ]] ] )[ '(' , ')')[ '(') : \"\"\"\")())\": \"\"\" \"\"\" \"\"\" \"\"\"in the order of\"\"\" \"\"\"listofaaa"}

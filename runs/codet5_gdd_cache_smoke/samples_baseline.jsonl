@@ -1,0 +1,4 @@
+{"task_id": "HumanEval/0", "completion": "\"\"\"ifnumber in numbers:) : return(numbers_close( thresholdsthreshold ) : if thresholdsthreshold : return TrueFalsereturn False"}
+{"task_id": "HumanEval/0", "completion": "has_close_elements([2.0,1.0, 2.8, 3.0,1.0, 2.8, 3.0,2.0,Trueis None2.01.0,2.8, 3."}
+{"task_id": "HumanEval/1", "completion": "sequence of parentheses.sequence ofcomma separated list. \"\"\"\"\"\"\n   join () \"\"\" \"\"\"list ( ) :#] =( ) ,)join ())[ : - 1 ]]) ,.:"}
+{"task_id": "HumanEval/1", "completion": ":: if. strip () return, \" \" ) :\" \"): return ' '\" '''' ' )',. split ( )), ' '] : [. split ( ) ]"}

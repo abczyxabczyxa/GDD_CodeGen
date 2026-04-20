@@ -1,0 +1,4 @@
+{"task_id": "HumanEval/0", "completion": "fornumber of numbersinofif not2.8, 3.0,2.8,4.0, 5.0, 2.0, 5.0, 2.0,0.3, 0.5, 2.0,2"}
+{"task_id": "HumanEval/0", "completion": ". is_closed (1.01.0 ,2.0,True\n    \"\"\" if.]is_close0.5 )2.8 )5.0 ] ) ==False return False return2.8 )1"}
+{"task_id": "HumanEval/1", "completion": "==( ):if notor ( )return{0:d} \"\"\": return[ ' ' ],. split (,None : return, len ( paren_string) : if len:=,"}
+{"task_id": "HumanEval/1", "completion": "'()()()'list:joinappend( paren_string: str)() :: for paren_string:( ) \"\"\"True ) ) : yield[paren_string . split:) : yield),)"}
